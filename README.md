@@ -1,2 +1,2 @@
 # Nimrod
-Solved game called Nimrod. I made in high school.
+Solved game called Nimrod. I made this program in high school.
